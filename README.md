@@ -1,7 +1,11 @@
 # greeterProject
-Created with CodeSandbox using React
+Created using React
 
 This simple React app uses dynamic insertions to render a greeting determined based upon a range of hours in the day. Each range of hours is further denoted by being rendered in a specific color. This can easily be utilized in a variety of applications with minimal changes.
+
+From 0600-1200 the message is 'Good morning" in the color red.
+From 1200-1800 the message is 'Good afternoon' in the color green.
+From 1800 - 0600 the message is 'Good night' in the color blue.
 
 Creating this app helped me to better learn and practice the following:
 1) Creating React applications
