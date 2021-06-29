@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/greeterProject/static/js/main.0cae67ae.chunk.js",
+    "main.js.map": "/greeterProject/static/js/main.0cae67ae.chunk.js.map",
+    "runtime-main.js": "/greeterProject/static/js/runtime-main.60ccd131.js",
+    "runtime-main.js.map": "/greeterProject/static/js/runtime-main.60ccd131.js.map",
+    "static/js/2.d37b1c94.chunk.js": "/greeterProject/static/js/2.d37b1c94.chunk.js",
+    "static/js/2.d37b1c94.chunk.js.map": "/greeterProject/static/js/2.d37b1c94.chunk.js.map",
+    "index.html": "/greeterProject/index.html",
+    "static/js/2.d37b1c94.chunk.js.LICENSE.txt": "/greeterProject/static/js/2.d37b1c94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ccd131.js",
+    "static/js/2.d37b1c94.chunk.js",
+    "static/js/main.0cae67ae.chunk.js"
+  ]
+}
